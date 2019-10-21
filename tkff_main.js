@@ -1,6 +1,6 @@
-//	................................................................................
-//  bakeoff1.main.js
-//	javascript for index page of Tiny Keyboards, Fat Fingers
+//  ................................................................................
+//  tkff_main.js
+//  javascript for index page of Tiny Keyboards, Fat Fingers
 //  Written by: Mark Chen
 //  Date Created: 10/15/2019
 //  Last Modified: 10/20/2019
