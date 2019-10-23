@@ -3,7 +3,7 @@
 //  javascript for index page of Tiny Keyboards, Fat Fingers
 //  Written by: Mark Chen
 //  Date Created: 10/15/2019
-//  Last Modified: 10/20/2019
+//  Last Modified: 10/23/2019
 //	................................................................................
 
 /*  --- Keyboard ---  */
