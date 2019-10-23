@@ -1,5 +1,5 @@
 //  ................................................................................
-//  tkff_main.js
+//  tkff.main.js
 //  javascript for index page of Tiny Keyboards, Fat Fingers
 //  Written by: Mark Chen
 //  Date Created: 10/15/2019
