@@ -1,1 +1,1 @@
-# Tiny-Keyboards-Fat-Fingers
+# Project: Tiny Keyboards, Fat Fingers
